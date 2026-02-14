@@ -6,7 +6,7 @@
     }
   ],
   "PrimaryOutput": {
-    "ItemId": "Ore_Iron",
+    "ItemId": "Ore_Copper",
     "Quantity": 1
   },
   "Output": [
